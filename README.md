@@ -13,3 +13,7 @@ This is a description
 ## Deployment
 
 This is info on deployment
+
+## Copyright
+
+This is some copyright info
